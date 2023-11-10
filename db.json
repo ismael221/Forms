@@ -1,0 +1,16 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "John",
+      "sobrenome": "Doe",
+      "Cpf": "123456789123",
+      "email": "example@teste.com.br",
+      "cep": "3845768",
+      "rua": "Seven Avenue",
+      "bairro": "The neiboorhoud",
+      "cidade": "Great York",
+      "estado": "Baixa da Egua"
+    }
+  ]
+}
